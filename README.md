@@ -2,7 +2,7 @@
 Currently, work as a DevOps Engineer
 
 ## 👀 Sharing about Cloud / DevOps Engineering.
- I’m currently learning Cloud-Native Technology.
+ ----- coming -----
  
 <!---
 arulferiandevops/arulferiandevops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
